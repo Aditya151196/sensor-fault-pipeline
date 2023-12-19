@@ -1,4 +1,5 @@
 confluent-kafka
+certifi
 requests
 six
 pandas
